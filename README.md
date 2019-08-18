@@ -12,3 +12,14 @@ This robot lacked the ability to speak. This project has given EBO a voice offli
 
 ## Commits.
 [Commits](https://github.com/inajarrob/learnbot/commits/text2speech)
+
+## Examples of the voice.
+[Audio samples](https://github.com/inajarrob/AudioSamples)
+
+## Neural network used.
+[Tacotron](https://github.com/keithito/tacotron)
+
+## For the following versions.
+- Improve the synthesis to get the audios in a more fluid way.
+- Add Spanish language.
+- Modulate the audios to represent more emotions.
