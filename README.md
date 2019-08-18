@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+# Development of a Text To Speech component that operates offline for the EBO educational robot.
 
-You can use the [editor on GitHub](https://github.com/inajarrob/GSoC-2019-TextToSpeech/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+EBO is an educational robot that has the ability to express emotions. In addition, it has a programming platform designed in blocks so that children can learn to program in a simple way.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This robot lacked the ability to speak. This project has given EBO a voice offline. This voice has been generated from a neural network that has been trained to get a good tone.
 
-### Markdown
+## Posts.
+1. [Introduction](https://robocomp.github.io/web/gsoc/2019/isabel_najarro/post01) 
+2. [First advances](https://robocomp.github.io/web/gsoc/2019/isabel_najarro/post02)
+3. [The voice is taking shape](https://robocomp.github.io/web/gsoc/2019/isabel_najarro/post03)
+4. falta hacerlo.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/inajarrob/GSoC-2019-TextToSpeech/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Commits.
+[Commits](https://github.com/inajarrob/learnbot/commits/text2speech)
