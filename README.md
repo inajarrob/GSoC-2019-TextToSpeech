@@ -11,7 +11,7 @@ This robot lacked the ability to speak. This project has given EBO a voice offli
 4. falta hacerlo.
 
 ## Commits.
-[Commits](https://github.com/inajarrob/learnbot/commits/text2speech)
+[Commits](https://github.com/inajarrob/learnbot/commits/text2speech?author=inajarrob)
 
 ## Examples of the voice.
 [Audio samples](https://github.com/inajarrob/AudioSamples)
