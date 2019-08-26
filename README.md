@@ -2,6 +2,7 @@
 
 EBO is an educational robot that has the ability to express emotions. In addition, it has a programming platform designed in blocks so that children can learn to program in a simple way.
 
+<img src="ebo_image.png" alt="EBO_image" class="inline"/>
 ![EBO_image](https://github.com/inajarrob/GSoC-2019-TextToSpeech/blob/master/ebo_image.png)
 
 This robot lacked the ability to speak. This project has given EBO a voice offline. This voice has been generated from a neural network that has been trained to get a good tone.
