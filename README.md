@@ -6,6 +6,12 @@ EBO is an educational robot that has the ability to express emotions. In additio
 
 This robot lacked the ability to speak. This project has given EBO a voice offline. This voice has been generated from a neural network that has been trained to get a good tone.
 
+The code done: 
+[Get the code](https://github.com/inajarrob/learnbot/tree/text2speech/learnbot_dsl/components/tacotron)
+
+EBO documentation:
+[Documentation](https://github.com/robocomp/learnbot/wiki)
+
 ## Posts.
 1. [Introduction.](https://robocomp.github.io/web/gsoc/2019/isabel_najarro/post01) 
 2. [First advances.](https://robocomp.github.io/web/gsoc/2019/isabel_najarro/post02)
