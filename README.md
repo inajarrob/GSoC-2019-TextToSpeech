@@ -3,7 +3,6 @@
 EBO is an educational robot that has the ability to express emotions. In addition, it has a programming platform designed in blocks so that children can learn to program in a simple way.
 
 <img src="ebo_image.png" alt="EBO_image" class="inline"/>
-![EBO_image](https://github.com/inajarrob/GSoC-2019-TextToSpeech/blob/master/ebo_image.png)
 
 This robot lacked the ability to speak. This project has given EBO a voice offline. This voice has been generated from a neural network that has been trained to get a good tone.
 
@@ -21,7 +20,7 @@ This robot lacked the ability to speak. This project has given EBO a voice offli
 
 ## Example of the final version.
 The example will be developed in the robot simulator. The code used for the example is:
-![Code_example](https://github.com/inajarrob/GSoC-2019-TextToSpeech/blob/master/Code_example.png)
+<img src="Code_example.png" alt="Code_example" class="inline"/>
 
 Before launching the simulator, we will launch the component **tacotron**, from the component folder, as: 
 > python3 src/tacotron.py etc/config 
